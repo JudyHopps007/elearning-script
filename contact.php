@@ -5,6 +5,7 @@ include("includes/header.php");
    <div class="container">
        <div class="row">
            <div class="col-md-12">
+
                 <div class="section_title text-center contact_title">
                     <h2><i class="fa fa-paper-plane-o"></i>Contact Us</h2>
                     <p>If You Have Any Kind Of Query About This Site Feel Free To Contact Us.We Will Be Happy To Hear From You.</p>
